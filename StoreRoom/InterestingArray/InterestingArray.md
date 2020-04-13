@@ -12,7 +12,7 @@ Print a single integer denoting the number of pairs.
 
 **Constraints:**
 
-2 ≤ n ≤ 105
+2 ≤ n ≤ 10^5
 
 0<k, arr[i] < 10^9
 
