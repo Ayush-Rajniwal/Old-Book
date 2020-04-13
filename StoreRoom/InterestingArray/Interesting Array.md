@@ -31,9 +31,9 @@ Output
 **Sample test case explanation**
 The pairs are (1,3), (2,4) and (3,5).
 
-##Approach
+## Approach
 
-###Brute Force | [Code](/InterstingArray.java)
+### Brute Force | [Code](./InterestingArray.java)
 
 * Sort the Array.
 * Pick one element from the Array
