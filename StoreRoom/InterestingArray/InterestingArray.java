@@ -1,7 +1,6 @@
 import java.util.*;
 import java.io.*;
-
-public class Main {
+public class InterestingArray {
   public static void main(String args[]) throws IOException {
     
     //write your code here
