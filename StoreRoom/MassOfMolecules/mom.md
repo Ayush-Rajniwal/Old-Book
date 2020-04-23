@@ -25,8 +25,11 @@ The output contains a single line, the weight of the molecules.
 **Example**
 
 *Input*
+
 COOH
+
 *Output*
+
 45
 
 ## Approach
