@@ -27,7 +27,7 @@ COOH
 
 ## Approach
 
-### Stack
+### Stack | [Code](/StoreRoom/MassOfMolecules/mom.java)
 
 * If we get C,O,H as input we will push there mass to the stack.
 * If we get a number between 1-9 then we will pop the last element, multiply it with the number between 1-9; Push the product back to the stack. 
