@@ -11,15 +11,19 @@ Write a code to get molecule weight for the given formula. Weight of given formu
 
 
 **Input Format**
+
 The first line contains of the formula F of length N.
 
 **Output Format**
+
 The output contains a single line, the weight of the molecules.
 
 **Constraints**
+
 1<=N<=10^6
 
 **Example**
+
 *Input*
 COOH
 *Output*
