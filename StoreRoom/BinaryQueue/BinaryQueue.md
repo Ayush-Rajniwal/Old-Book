@@ -29,7 +29,7 @@ For each test case print the required binary representation of the numbers from 
 1 10 11 100
 1 10 11 100 101
 
-##Approach | [Code](/StoreRoom/BinaryQueue/BinaryQueue.java)
+## Approach | [Code](/StoreRoom/BinaryQueue/BinaryQueue.java)
 
 Let me tell you something amazing about the binary numbers.
 Look at this pattern.
