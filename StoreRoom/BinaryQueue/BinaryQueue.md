@@ -72,10 +72,15 @@ This code is taken from the [GeekForGeeks](https://www.geeksforgeeks.org/interes
 ```
 The code is doing this.
 * It add 1 to the queue
+
 ![image](../../static/bq3.jpg)
+
 * Remove it from the Queue; Store it in s1 and print it.
+
 ![image](../../static/bq4.jpg)
+
 * We make a copy of s1 in s2. 
+
 ```java
 String s2 = s1;
 // Append "0" to s1 and enqueue it 
@@ -85,7 +90,9 @@ q.add(s2 + "1");
 ```
 This is because we need to **add 0 to the s1** and **1 to the s2** to get next binary numbers i.e.(10,11)
 * Now Queue is this.
+
 ![image](../../static/bq5.jpg)
+
 * Repeat this process.
  > Pull 10 out in s1.       
  Print s1 => 10
@@ -95,5 +102,6 @@ This is because we need to **add 0 to the s1** and **1 to the s2** to get next b
  Insert them to the Queue.
 
 ![image](../../static/bq6.jpg)  
+
 * Keep doing it till n become 0.                       
 * Happy Ending!!(I hope so😅)
