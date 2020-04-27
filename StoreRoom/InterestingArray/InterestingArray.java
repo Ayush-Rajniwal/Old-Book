@@ -1,3 +1,5 @@
+package StoreRoom.InterestingArray;
+
 import java.util.*;
 import java.io.*;
 public class InterestingArray {

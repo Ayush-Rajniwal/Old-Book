@@ -1,7 +1,9 @@
+package StoreRoom.MassOfMolecules;
+
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class MassOfMolecules {
   public static void main(String args[]) throws IOException {
     Scanner sc = new Scanner(System.in);
     String s=sc.next();
